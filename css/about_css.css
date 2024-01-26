@@ -38,14 +38,18 @@ img {
 }
 
 .individual_photos {
-    display: inline-flex;
-    width: 10%;
+    display: block;
+    width: 90%;
     height: auto;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin: auto;
+    text-align: center;
 }
 
+.individual_photos > img {
+    width: 40%;
+}
 main {
     padding: 20px;
 }
