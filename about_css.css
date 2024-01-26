@@ -30,7 +30,16 @@ nav ul li a {
 
 img {
     display: block;
-    max-width: 80%;
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: auto;
+}
+
+.individual_photos {
+    display: inline-flex;
+    width: 10%;
     height: auto;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
