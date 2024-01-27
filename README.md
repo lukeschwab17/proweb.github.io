@@ -1,3 +1,3 @@
 # cs253_company_page
-This is a generic template for an in-class exercise.
-Further instruction will be provided in class.  
+This is a generic website for an in-class exercise.
+"ProWeb Company"
